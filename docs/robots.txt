@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: http:///kincaid33.github.io/sitemap.xml
+Sitemap: https://kincaid33.github.io/profile//sitemap.xml
