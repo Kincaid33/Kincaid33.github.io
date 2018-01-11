@@ -1,6 +1,7 @@
 baseurl = "http://Kincaid33.github.io"
 title = "Prodipta Guha"
 theme = "dimension"
+publishDir = "docs"
 themesDir = "themes"
 languageCode = "en-us"
 defaultContentLanguage = "en"
