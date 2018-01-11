@@ -1,4 +1,4 @@
-baseurl = "http:/kincaid33.github.io"
+baseurl = "http:/kincaid33.github.io/profile"
 title = "Prodipta Guha"
 theme = "dimension"
 publishDir = "docs"
